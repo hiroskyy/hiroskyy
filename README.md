@@ -1,16 +1,13 @@
-## Hi there 👋
+### **HIROSHI**
 
-<!--
-**hiroskyy/hiroskyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hiroshi&label=Profile%20Views&color=orange&style=flat-square" alt="hiroskyy" /> </p>
 
-Here are some ideas to get you started:
+- 🤩 Saya Masih Belajar Git & GitHub‌‌
+- ☀️ Python Lover
+- 🤖 Sebagian Besar Repositori Saya Adalah Untuk Telegram‌‌
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### CONTACT ME☎️
+  <a href="https://t.me/salome4u"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
+  <a href="https://github.com/hiroskyy"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
+ <a href="https://t.me/anonmutualan"><img src="https://img.shields.io/badge/Group-Support-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
+<a href="https://t.me/salome4u"><img src="https://img.shields.io/badge/Channel-Support-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
